@@ -42,7 +42,7 @@ password: "Password for your zoho mail"
      secure: true, //ssl
      auth: {
               user:'**************',
-             pass:'*******'
+              pass:'*******'
      }
   });
 
